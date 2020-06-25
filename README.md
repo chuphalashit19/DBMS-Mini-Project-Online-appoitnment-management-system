@@ -1,2 +1,1 @@
-# Data-House
-My first repoistory
+This is an online appointment management system mini project of DBMS 
